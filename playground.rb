@@ -11,3 +11,4 @@ arr1 = [1,2,4, 10]
 puts count_elements arr1
 str = "sample string"
 puts str.upcase
+puts "emo".reverse.upcase
